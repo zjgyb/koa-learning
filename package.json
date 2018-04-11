@@ -1,0 +1,27 @@
+{
+  "name": "koa-learning",
+  "version": "0.0.1",
+  "description": "koa-learning",
+  "main": "",
+  "scripts": {
+    "test": "node [filename].js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zjgyb/koa-learning.git"
+  },
+  "keywords": [
+    "koa",
+    "node"
+  ],
+  "author": "nicegong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zjgyb/koa-learning/issues"
+  },
+  "homepage": "https://github.com/zjgyb/koa-learning#readme",
+  "dependencies": {
+    "koa": "^2.5.0",
+    "koa-router": "^7.4.0"
+  }
+}
